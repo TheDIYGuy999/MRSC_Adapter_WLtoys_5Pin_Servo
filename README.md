@@ -14,6 +14,6 @@ New in V 0.1
 ## Usage
 
 See pictures
-![](https://github.com/TheDIYGuy999/Micro_RC_Receiver/blob/master/1.jpg)
+![](https://github.com/TheDIYGuy999/MRSC_Adapter_WLtoys_5Pin_Servo/blob/master/wiring.jpg)
 
 (c) 2018 TheDIYGuy999
