@@ -32,6 +32,9 @@ Vehicle board top side
 Vehicle board bottom side
 ![](https://github.com/TheDIYGuy999/MRSC_Adapter_WLtoys_5Pin_Servo/blob/master/Bottom.jpg)
 
+Vehicle wiring
+![](https://github.com/TheDIYGuy999/MRSC_Adapter_WLtoys_5Pin_Servo/blob/master/Vehicle_wiring.jpg)
+
 First test
 ![](https://github.com/TheDIYGuy999/MRSC_Adapter_WLtoys_5Pin_Servo/blob/master/wiring.jpg)
 
