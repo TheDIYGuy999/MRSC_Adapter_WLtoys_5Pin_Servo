@@ -20,7 +20,8 @@ New in V 0.2
 - Software cleaned up and optimized. Gyro calibration removed. Board is now immedialtely ready after power on.
 - First indoor test in a WLtoys A979-B done
 - Both the pot and the direction switches are disabled. So the standard values Gain 20% & Inversed = true are active. You can activate them in the main loop, if required.
-- More informations will follow on my YouTube channel: https://www.youtube.com/channel/UCqWO3PNCSjHmYiACDMLr23w
+- More informations  on my YouTube channel: https://www.youtube.com/channel/UCqWO3PNCSjHmYiACDMLr23w
+- Video: https://www.youtube.com/watch?v=pNb_3yC4mTQ&t=8s
 
 ## Usage
 
