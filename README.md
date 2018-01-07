@@ -1,6 +1,9 @@
-# This the Arduino MRSC (Micro Rc Stability Control) for WLtoys 5 pin servos!
+# This is the Arduino MRSC (Micro Rc Stability Control) for WLtoys 5 pin servos!
 ## Features:
 - For WLtoys A959, A969, A979 RC cars
+- Provides about the same functionality as the Traxxas TSM stability management system
+- The car tries to follow the direction, which is requested from the steering wheel. Deviations are compensated with countersteering
+- I also have an Adruino RC system with fully integrated MRSC: https://github.com/TheDIYGuy999/Micro_RC_Receiver
 - Programmable with Arduino IDE
 - Input for feedback potentiometer of a WLtoys 5 pin servo
 - The simulated potentimeter feedback is sent to the WLtoys receiver / ESC
