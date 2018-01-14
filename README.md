@@ -4,6 +4,7 @@
 - Provides about the same functionality as the Traxxas TSM stability management system
 - The car tries to follow the direction, which is requested from the steering wheel. Deviations are compensated with countersteering
 - I also have an Adruino RC system with fully integrated MRSC: https://github.com/TheDIYGuy999/Micro_RC_Receiver
+- Version for 3 pin standard RC servos: https://github.com/TheDIYGuy999/MRSC_Adapter_3Pin_Servo
 - Programmable with Arduino IDE
 - Input for feedback potentiometer of a WLtoys 5 pin servo
 - The simulated potentimeter feedback is sent to the WLtoys receiver / ESC
